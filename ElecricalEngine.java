@@ -9,4 +9,8 @@ public class ElecricalEngine{
 		System.out.println("Electical engine is stoped");
 
 	}
+	public void generatePower() {
+		System.out.println("Electical engine is stoped");
+
+	}
 }
